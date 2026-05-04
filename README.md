@@ -9,8 +9,6 @@ Teacher List
 3.
 4.
 5.
-6.
-7. GONZALES, GIAN
 // You can add numbers to continue the list
 
 
